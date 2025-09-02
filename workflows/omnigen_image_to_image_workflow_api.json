@@ -1,0 +1,50 @@
+{
+  "6": {
+    "inputs": {
+      "preset_prompt": "None",
+      "prompt": "in image_1 the boy is standing on a road",
+      "model_precision": "Auto",
+      "memory_management": "Balanced",
+      "guidance_scale": 3.5,
+      "img_guidance_scale": 1.8,
+      "num_inference_steps": 50,
+      "separate_cfg_infer": true,
+      "use_input_image_size_as_output": false,
+      "width": 768,
+      "height": 768,
+      "seed": 582248950683741,
+      "max_input_image_size": 1024,
+      "image_1": [
+        "12",
+        0
+      ]
+    },
+    "class_type": "ailab_OmniGen",
+    "_meta": {
+      "title": "OmniGen 🖼️"
+    }
+  },
+  "7": {
+    "inputs": {
+      "filename_prefix": "ComfyUI",
+      "images": [
+        "6",
+        0
+      ]
+    },
+    "class_type": "SaveImage",
+    "_meta": {
+      "title": "Save Image"
+    }
+  },
+  "12": {
+    "inputs": {
+      "url": "",
+      "cache": true
+    },
+    "class_type": "LoadImageByUrl //Browser",
+    "_meta": {
+      "title": "Load Image By URL"
+    }
+  }
+}
