@@ -252,13 +252,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [CogVideoX](https://github.com/THUDM/CogVideo) - Advanced video generation models
 - [OmniGen](https://github.com/VectorSpaceLab/OmniGen) - Versatile image transformation
 
-## 📞 Support
-
-For issues and questions:
-- 🐛 [Report bugs](https://github.com/yourusername/comfyui-flask-app/issues)
-- 💬 [Discussions](https://github.com/yourusername/comfyui-flask-app/discussions)
-- 📧 Email: your.email@example.com
-
 ---
 
 <p align="center">Made with ❤️ by M Waqas Viki, for developers</p>
