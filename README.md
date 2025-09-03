@@ -30,7 +30,7 @@ A powerful Flask-based REST API wrapper for ComfyUI, providing easy programmatic
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/comfyui-flask-app.git
+git clone https://github.com/mwaqasviki/comfyui-flask-app.git
 cd comfyui-flask-app
 ```
 
